@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Cloud Product/MlFlow/mlruns/926219752037785520/e78d72f9ce5d4b47a79805d5f9a5234c/artifacts
+end_time: 1773032936614
+entry_point_name: ''
+experiment_id: '926219752037785520'
+lifecycle_stage: active
+run_id: e78d72f9ce5d4b47a79805d5f9a5234c
+run_name: rf_diabetes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773032931761
+status: 3
+tags: []
+user_id: navee
